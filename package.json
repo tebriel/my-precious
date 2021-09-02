@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "lerna": "^2.9.0"
+    "lerna": "^4.0.0"
   },
   "scripts": {
     "test": "cd packages/libprecious && npm test"
